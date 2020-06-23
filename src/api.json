@@ -28,10 +28,10 @@
     "name": "FullViewMap",
     "description": "Pantalla completa del mapa",
     "text": "Este plugin te permite poner el mapa en pantalla completa",
-    "version": "1.1.0",
-    "date": "Diciembre, 2019",
+    "version": "1.0.0",
+    "date": "Junio, 2020",
     "author": "",
-    "org": "Instituto de Estadística y Cartografía",
+    "org": "Consejería de Hacienda, Industria y Energía. Junta de Andalucía.",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg",
     "centralized": true
