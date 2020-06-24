@@ -1,0 +1,13 @@
+/** Estilos sobreescritos */
+button#btnFullView {
+  background-color: #536DFE;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  border-radius: 300px;
+}
