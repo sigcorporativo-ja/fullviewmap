@@ -25,12 +25,6 @@ Plugin que permite poner a pantalla completa el mapa.
     - 'BL':bottom left
     - 'BR':bottom right
 
-## Eventos
-
-
-## Otros métodos
-
-
 ## Ejemplos de uso
 
 ### Ejemplo 1
@@ -51,7 +45,7 @@ const map = M.map({
      container: 'map'
    });
 
-const mp = new M.plugin.FullViewMap({});
+const mp = new M.plugin.FullViewMap();
 
 map.addPlugin(mp);
 ```
